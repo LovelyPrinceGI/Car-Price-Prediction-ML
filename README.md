@@ -27,8 +27,7 @@ The project includes:
 - `Cars.csv`: Dataset used for training the model.
 ## How to run
 ### Prerequisites
-1. Python 3.7 or above installed on your system.
-2. Required Python libraries (install via `requirements.txt`).
+- Python 3.7 or above installed on your system.
 ### Steps
 1. Clone the repository:
 ```
