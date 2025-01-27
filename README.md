@@ -45,6 +45,11 @@ docker compose up
 ```
 uvicorn main:app --reload
 ```
+## How to use
+1. Go to the web interface.
+2. Enter the car details in the input form.
+3. Click the "Predict Price" button.
+4. View the predicted price below the form.
 ## `NOTE:`
 - `A1_Car_Price_Prediction_V2___.ipynb` is in `app` folder
 - The rest of the model components are also in the `app` folder
