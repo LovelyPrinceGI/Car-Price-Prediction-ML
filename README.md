@@ -28,7 +28,7 @@ The project includes:
 ## How to run
 ### Prerequisites
 - Python 3.7 or above installed on your system.
-### Steps
+### Set up steps
 1. Clone the repository:
 ```
 git clone <repository-url>
