@@ -25,7 +25,26 @@ The project includes:
 - `preprocess/`: Preprocessing files (e.g., scalers, encoders).
 - `A1_Car_Price_Prediction_V2___.ipynb`: Jupyter notebook for model training and analysis.
 - `Cars.csv`: Dataset used for training the model.
+## How to run
+### Prerequisites
+1. Python 3.7 or above installed on your system.
+2. Required Python libraries (install via `requirements.txt`).
+### Steps
+1. Clone the repository:
+```
+git clone <repository-url>
+cd Car-Price-Prediction
+```
+2. Docker compose up 
+```
+docker compose up
 
+```
+3. Attach docker via visualstudio code
+4. Run website using FastAPI's uvicorn
+```
+uvicorn main:app --reload
+```
 ## `NOTE:`
 - `A1_Car_Price_Prediction_V2___.ipynb` is in `app` folder
 - The rest of the model components are also in the `app` folder
