@@ -24,3 +24,7 @@ The project includes:
 - preprocess/: Preprocessing files (e.g., scalers, encoders).
 - A1_Car_Price_Prediction_V2___.ipynb: Jupyter notebook for model training and analysis.
 - Cars.csv: Dataset used for training the model.
+
+## `NOTE:`
+- A1_Car_Price_Prediction_V2___.ipynb is in `app` folder
+- The rest of the model components are also in the `app` folder
